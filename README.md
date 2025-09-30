@@ -1,4 +1,4 @@
-# EduSphere
+# EduSpherep
 
 ## 📚 About EduSphere
 
